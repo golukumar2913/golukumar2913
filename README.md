@@ -1,52 +1,58 @@
+# Hi 👋, I'm Golu Singh
 
-<h1 align="center">Hi 👋, I'm Golu Singh</h1>
-<h3 align="center">Computer Science Student at Glocal University | MERN Stack Developer</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Python+Learner;DSA+Practice;Web+Development+Enthusiast&center=true&width=500&height=50">
-</p>
+🎓 Computer Science Student at **Glocal University**
+💻 MERN Stack Developer
+🐍 Learning **Python & Data Structures**
+🚀 Passionate about **Web Development & Problem Solving**
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Student at **Glocal University**
-* 💻 MERN Stack Developer
-* 🐍 Learning **Python & Data Structures**
-* 📚 Practicing **DSA & Problem Solving**
-* 🎯 Goal: Become a **Software Engineer**
+* 🌱 Currently learning **Python & Data Structures**
+* 💻 Building **Full Stack Web Applications**
+* 📚 Practicing **DSA & coding challenges**
+* 🎯 Goal: Become a **Software Developer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github"/>
-</p>
+### 💻 Languages
+
+JavaScript | Python
+
+### 🌐 Frontend
+
+HTML | CSS | JavaScript | React
+
+### ⚙️ Backend
+
+Node.js | Express.js
+
+### 🗄️ Database
+
+MongoDB
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=golukumar2913&show_icons=true&theme=tokyonight"/>
-</p>
+![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golukumar2913\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golukumar2913&layout=compact&theme=tokyonight"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golukumar2913\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📈 GitHub Streak
+## 📌 Current Focus
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=golukumar2913&theme=tokyonight"/>
-</p>
+* Data Structures & Algorithms
+* Full Stack Web Development
+* Building Real Projects
 
 ---
 
@@ -57,5 +63,6 @@
 ---
 
 ⭐ From **Golu Singh**
+
 
 
