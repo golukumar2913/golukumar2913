@@ -1,57 +1,60 @@
-# Hi 👋, I'm Golu Singh
 
-🎓 Computer Science Student at **Glocal University**
-💻 MERN Stack Developer
-🐍 Learning **Python & Data Structures**
-🚀 Passionate about **Web Development & Problem Solving**
+<h1 align="center">Hi 👋, I'm Golu Singh</h1>
+<h3 align="center">Computer Science Student at Glocal University | MERN Stack Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Python+Learner;DSA+Practice;Web+Development+Enthusiast&center=true&width=500&height=50">
+</p>
+
+---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Python & Data Structures**
-* 💻 Building **Full Stack Web Applications**
-* 📚 Practicing **DSA & coding challenges**
-* 🎯 Goal: Become a **Software Developer**
+* 🎓 Computer Science Student at **Glocal University**
+* 💻 MERN Stack Developer
+* 🐍 Learning **Python & Data Structures**
+* 📚 Practicing **DSA & Problem Solving**
+* 🎯 Goal: Become a **Software Engineer**
 
+---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github"/>
+</p>
 
-JavaScript | Python
-
-### 🌐 Frontend
-
-HTML | CSS | JavaScript | React
-
-### ⚙️ Backend
-
-Node.js | Express.js
-
-### 🗄️ Database
-
-MongoDB
+---
 
 ## 📊 GitHub Stats
 
-![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golukumar2913\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=golukumar2913&show_icons=true&theme=tokyonight"/>
+</p>
 
+---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golukumar2913\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golukumar2913&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
-## 📌 Current Focus
+## 📈 GitHub Streak
 
-* Data Structures & Algorithms
-* Full Stack Web Development
-* Building Real Projects
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=golukumar2913&theme=tokyonight"/>
+</p>
 
+---
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/golukumar2913
 
+---
 
 ⭐ From **Golu Singh**
 
