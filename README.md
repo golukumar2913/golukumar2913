@@ -37,8 +37,7 @@ MongoDB
 ---
 
 ## 📊 GitHub Stats
-
-![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golukumar2913&show_icons=true\&theme=tokyonight)
+![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golukumar2913&show_icons=true&theme=tokyonight)
 
 ---
 
