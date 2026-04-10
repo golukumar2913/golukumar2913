@@ -1,4 +1,4 @@
-# Hi 👋, I'm Golu Singh
+# Hi 👋, I'm Golu Kumar
 
 🎓 Computer Science Student at **Glocal University**
 💻 MERN Stack Developer
@@ -74,10 +74,6 @@
 
 ⭐ From **Golu Singh**
 
-
----
-
-⭐ From **Golu Kumar**
 
 
 
