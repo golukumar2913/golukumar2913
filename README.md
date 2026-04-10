@@ -1,4 +1,4 @@
-# Hi 👋, I'm Golu Singh
+# Hi 👋, I'm Golu Kumar
 
 🎓 Computer Science Student at **Glocal University**
 💻 MERN Stack Developer
@@ -37,7 +37,8 @@ MongoDB
 ---
 
 ## 📊 GitHub Stats
-![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golukumar2913&show_icons=true&theme=tokyonight)
+
+![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golukumar2913\&show_icons=true\&theme=tokyonight)
 
 ---
 
@@ -61,7 +62,8 @@ MongoDB
 
 ---
 
-⭐ From **Golu Singh**
+⭐ From **Golu Kumar**
+
 
 
 
