@@ -1,4 +1,4 @@
-# Hi 👋, I'm Golu Kumar
+# Hi 👋, I'm Golu Singh
 
 🎓 Computer Science Student at **Glocal University**
 💻 MERN Stack Developer
@@ -20,31 +20,41 @@
 
 ### 💻 Languages
 
-JavaScript | Python
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 
 ### 🌐 Frontend
 
-HTML | CSS | JavaScript | React
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 
 ### ⚙️ Backend
 
-Node.js | Express.js
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge\&logo=express)
 
 ### 🗄️ Database
 
-MongoDB
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (NEW API)
 
-![Golu's GitHub stats](https://github-readme-stats.vercel.app/api?username=golukumar2913\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=golukumar2913\&theme=tokyonight)
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 Most Used Languages (NEW API)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golukumar2913\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=golukumar2913\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=golukumar2913\&theme=tokyo-night)
 
 ---
 
@@ -59,6 +69,11 @@ MongoDB
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/golukumar2913
+
+---
+
+⭐ From **Golu Singh**
+
 
 ---
 
